@@ -3,7 +3,6 @@ It is a simple Dice Game. We can use this game to toss between two users and dec
 
 
 
-## 💻Tech Stack
 <br>
 
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
